@@ -5,7 +5,7 @@ const fnAsync = () => {
         : reject(new Error('Error'))
     })
 };
-
+//
 const anotherFn = async () => {
     const something = await fnAsync();
     console.log(something);

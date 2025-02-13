@@ -1,0 +1,35 @@
+# Dependencias
+/node_modules
+
+# Archivos de construcción
+/dist
+/build
+
+# Archivos de registro
+/logs
+*.log
+
+# Archivos de configuración
+.env
+
+# Archivos de respaldo
+*.bak
+*.swp
+
+# Archivos de caché
+/.cache
+
+# Archivos generados por IDEs
+/.vscode
+/.idea
+
+# Archivos de compilación
+*.map
+
+# Archivos de pruebas
+/coverage
+/.nyc_output
+
+# Otros archivos generados
+.DS_Store
+Thumbs.db
